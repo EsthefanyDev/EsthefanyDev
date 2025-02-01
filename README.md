@@ -48,7 +48,7 @@
 - **AWS** para cloud computing e deploy de aplicações.
 
 ---
-
+<!--
 ### 💡 Projetos Destacados
 
 #### 1. **Site de Delivery**
