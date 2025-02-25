@@ -39,7 +39,7 @@
 
 ### 🌱 O que estou aprendendo atualmente
 - **React Native** para desenvolvimento mobile.
-- **Docker** para conteinerização de aplicações.
+
 
 ---
 <!--
