@@ -1,19 +1,20 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+alt="ilustração de um computador" width="400px" align="right">
 
 ### 👋 Oi! Eu sou a Esthefany
 
-Estudante de Análise e Desenvolvimento de Sistemas, em busca de experiência e evolução na área de tecnologia.  
-Atualmente focada em aprender **Java** e entender melhor o desenvolvimento de sistemas na prática.
+Tecnóloga em Análise e Desenvolvimento de Sistemas, em início de carreira na área de tecnologia.  
+Tenho foco em desenvolvimento de software, com interesse em **Java**, **desenvolvimento web** e **desenvolvimento mobile**, buscando evoluir continuamente na prática.
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Atualmente focada em
 
-- Desenvolvimento de apps com **Android Studio**
+- Desenvolvimento de aplicações **web** com HTML, CSS e PHP
+- Desenvolvimento de aplicativos Android com **Android Studio**
 - Programação orientada a objetos com **Java**
-- Banco de dados com **MySQL**
-- Estrutura de dados e lógica
-
+- Banco de dados relacionais com **MySQL**
+- Estrutura de dados e lógica de programação
 
 ---
 
@@ -43,8 +44,9 @@ Atualmente focada em aprender **Java** e entender melhor o desenvolvimento de si
 
 ---
 
-
 ### 📬 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esthefany-lorrany-xavier-73a37329b/)  
-📧 esthefany.dev23@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/esthefany-lorrany-xavier-73a37329b/)
+
+📧 **Email:** esthefany.dev23@gmail.com
