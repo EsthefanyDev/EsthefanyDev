@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-alt="ilustração de um computador" width="350px" align="right">
+alt="ilustração de um computador" width="300px" align="right">
 
 ### 👋 Oi! Eu sou a Esthefany
 **`Desenvolvedora Front-end`**
