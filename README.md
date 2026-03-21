@@ -7,31 +7,82 @@ alt="ilustração de um computador" width="350px" align="right">
 Formada em Análise e Desenvolvimento de Sistemas, em início de carreira na área de tecnologia. Tenho foco em **desenvolvimento web**, utilizando HTML, CSS e JavaScript, e busco evoluir continuamente por meio de projetos práticos.
 
 <p align='left'>
-  <a href="https://www.linkedin.com/in/esthefanyxavier23" >
-      <img src = "https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin">
+  <a href="https://www.google.com/maps/search/Castanhal+PA">
+    <img src = "https://custom-icon-badges.demolab.com/badge/Castanhal-PA-purple?style=for-the-badge&logo=location&logoColor=white">
   </a>
   <a href="mailto:esthefany.dev23@gmail.com">
     <img src = "https://custom-icon-badges.demolab.com/badge/-esthefany.dev23@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white">
   </a>
-   <a href="https://esthefany.dev">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Portfólio-teal?style=for-the-badge&logo=zap&logoColor=white">
-  </a>
-  <a href="https://www.google.com/maps/search/Castanhal+PA">
-    <img src = "https://custom-icon-badges.demolab.com/badge/Castanhal-PA-purple?style=for-the-badge&logo=location&logoColor=white">
-  </a>
-  
+
 </p>
 
----
 
-### 📚 Atualmente focada em
-- Desenvolvimento de aplicações **web**
-- Evolução em **JavaScript** e no ecossistema front-end
-- Aprendizado de **React**
+## 🚀 Linguagens e Tecnologias
+<img 
+  aling='left'
+  alt='HTML'
+  title='HTML'
+  width='40px'
+  style='padding-right: 10px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+  aling='left'
+  alt='CSS'
+  title='CSS'
+  width='40px'
+  style='padding-right: 10px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+  aling='left'
+  alt='JavaScript'
+  title='JavaScript'
+  width='40px'
+  style='padding-right: 10px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+  aling='left'
+  alt='React'
+  title='React' 
+  width='40px'
+  style='padding-right: 10px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
+/>
+<img 
+  aling='left'
+  alt='Git'
+  title='Git' 
+  width='40px'
+  style='padding-right: 10px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+  aling='left'
+  alt='MySQL'
+  title='MySQL' 
+  width='40px'
+  style='padding-right: 10px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+                    
+### 📊 Estatísticas  
+<p>
+  <img
+    align='left'
+    alt='GitHub Stats'
+    height='200px'
+    style='padding-right: 10px'
+    src = 'https://github-readme-stats.vercel.app/api/?username=esthefanydev&theme=tokyonight&show_icons=true&height=200'
+  />
+  <img
+    align='left'
+    alt='GitHub Stats'
+    height='200px'
+    style='padding-right: 10px'
+    src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=esthefanydev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9'
+  />
+</p>
 
----
-
-
-
----
 
