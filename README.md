@@ -3,9 +3,10 @@ alt="ilustração de um computador" width="350px" align="right">
 
 ### 👋 Oi! Eu sou a Esthefany
 **`Desenvolvedora Front-end`**
-
-Formada em Análise e Desenvolvimento de Sistemas, em início de carreira na área de tecnologia. Tenho foco em **desenvolvimento web**, utilizando HTML, CSS e JavaScript, e busco evoluir continuamente por meio de projetos práticos.
-
+<div align="justify">
+Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira na área de tecnologia. Tenho foco em <b>desenvolvimento web</b>, utilizando <code>HTML</code>, <code>CSS</code> e <code>JavaScript</code>, e busco evoluir continuamente por meio de projetos práticos.
+</div>
+<br/>
 <p align='left'>
   <a href="https://www.google.com/maps/search/Castanhal+PA">
     <img src = "https://custom-icon-badges.demolab.com/badge/Castanhal-PA-purple?style=for-the-badge&logo=location&logoColor=white">
