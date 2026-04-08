@@ -69,21 +69,9 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
 />
                     
 ### 📊 Estatísticas  
-<p>
-  <img
-    align='left'
-    alt='GitHub Stats'
-    height='200px'
-    style='padding-right: 10px'
-    src = 'https://github-readme-stats.vercel.app/api/?username=esthefanydev&theme=tokyonight&show_icons=true&height=200'
-  />
-  <img
-    align='left'
-    alt='GitHub Stats'
-    height='200px'
-    style='padding-right: 10px'
-    src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=esthefanydev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9'
-  />
+<p align="left">
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esthefanydev&theme=tokyonight&show_icons=true" />
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esthefanydev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 
