@@ -41,10 +41,14 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
 ---
                     
 ### 📊 Estatísticas  
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EsthefanyDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EsthefanyDev&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esthefanydev&color=8A2BE2&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/esthefanydev?label=Followers&style=flat&color=8A2BE2" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=EsthefanyDev&color=8A2BE2&style=flat&label=Visualizações" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=60&section=footer"/>
-
