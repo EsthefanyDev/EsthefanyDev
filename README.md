@@ -51,4 +51,4 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
   <img src="https://komarev.com/ghpvc/?username=EsthefanyDev&color=8A2BE2&style=flat&label=Visualizações" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=60&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
