@@ -1,7 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Oi,%20eu%20sou%20Esthefany%20Dev&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
 alt="ilustração de um computador" width="350px" align="right">
-
-### 👋 Oi! Eu sou a Esthefany
 **`Desenvolvedora`**
 <div align="justify">
 Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira na área de tecnologia. Tenho foco em <b>desenvolvimento web</b>, utilizando <code>HTML</code>, <code>CSS</code>, <code>PHP</code> <code>JavaScript</code>, e busco evoluir continuamente por meio de projetos práticos.
@@ -73,5 +73,5 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esthefanydev&theme=tokyonight&show_icons=true" />
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esthefanydev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
