@@ -45,11 +45,11 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
 />
 <img 
   aling='left'
-  alt='React'
-  title='React' 
+  alt='JavaScript'
+  title='JavaScript'
   width='40px'
   style='padding-right: 10px'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 <img 
   aling='left'
