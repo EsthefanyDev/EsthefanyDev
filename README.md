@@ -44,7 +44,7 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=EsthefanyDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EsthefanyDev&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EsthefanyDev&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"/>
 </div>
 
 <p align="center">
