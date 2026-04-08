@@ -2,7 +2,7 @@
 alt="ilustração de um computador" width="350px" align="right">
 
 ### 👋 Oi! Eu sou a Esthefany
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora`**
 <div align="justify">
 Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira na área de tecnologia. Tenho foco em <b>desenvolvimento web</b>, utilizando <code>HTML</code>, <code>CSS</code>, <code>PHP</code> <code>JavaScript</code>, e busco evoluir continuamente por meio de projetos práticos.
 </div>
