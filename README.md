@@ -19,9 +19,12 @@ Formada em <b>Análise e Desenvolvimento de Sistemas</b>, em início de carreira
   <a href="mailto:esthefany.dev23@gmail.com">
     <img src="https://img.shields.io/badge/-esthefany.dev23@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/esthefanydev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://wa.me/559185974371" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
+</p>
+  
+  
 </p>
 
 
